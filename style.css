@@ -1,6 +1,8 @@
+html,
 body {
     background-color: rgb(251, 111, 111);
     font-family: 'Courier New', Courier, monospace;
+    margin: 0px;
 }
 
 h1,
@@ -28,5 +30,18 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%
+}
+
+.margin {
+    margin: 20px;
+}
+
+h2,
+p,
+h3,
+h4,
+ul,
+li,
+ol {
+    margin-left: 10px
 }
