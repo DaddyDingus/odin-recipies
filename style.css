@@ -50,7 +50,7 @@ img {
     display: block;
     width: auto;
     margin: auto;
-    margin-top: -21px;
+    margin-to: -21px;
 
 }
 
@@ -92,8 +92,9 @@ h3 {
 
 button {
     margin-left: 10px;
+    margin-top: 0px;
     background-color: rgba(0, 0, 0, 0.7);
     color: rgb(251, 251, 251);
-    display: inline;
+    position: absolute;
     
 }
