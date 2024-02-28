@@ -8,7 +8,7 @@
     width: device-width ;
     zoom: 1.0 ;
   }
-  
+
 html,
 body {
     background-color: rgb(251, 111, 111);
@@ -34,7 +34,6 @@ h1 {
 }
 
 .main-list {
-    position:relative; bottom: 15px;
     padding: 5px;
     width: 600px;
     margin-left: auto;
